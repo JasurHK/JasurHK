@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there , I'm Jasur
+
+
+
+🙋‍♂️ About Me
+📫 How to reach me jasurhakimov007@gmail.com
+🚀 Languages and Tools:
+              
+
+
+📊 My Github Stats
 
 <!--
 **JasurHK/JasurHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
