@@ -27,7 +27,7 @@ A weather dashboard that displays weather information based on user input. Creat
 
 ## 🛠️ Certification
 
-![Codecademy Certification](https://example.com/codecademy-certification.jpg) <!-- Add a link to your certification image -->
+![Codecademy Certification](https://www.codecademy.com/profiles/Jasjan007/certificates/705dcb15de0da4dd9d9fc4f3274b430e) <!-- Add a link to your certification image -->
 
 I am proud to be a Codecademy certified frontend developer. This certification has equipped me with the knowledge and skills to build responsive and interactive web applications.
 
@@ -35,7 +35,7 @@ I am proud to be a Codecademy certified frontend developer. This certification h
 
 - **LinkedIn**: [Jasur Hakimov](https://linkedin.com/in/jasurhakimov)
 - **Twitter**: [@jasurhakimov](https://twitter.com/jasurhakimov)
-- **Email**: jasurhakimov@example.com <!-- Replace with your email address -->
+- **Email**: jasurhakimov007@gmail.com <!-- Replace with your email address -->
 
 ## 🎨 Fun Facts
 
@@ -47,5 +47,5 @@ I am proud to be a Codecademy certified frontend developer. This certification h
 
 **Thank you for visiting my GitHub profile!** I'm always excited to connect with fellow developers and explore new opportunities. Feel free to check out my projects and reach out if you'd like to collaborate!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasurhakimov&show_icons=true&theme=radical) <!-- Add your GitHub username -->
+![GitHub Stats](https://github.com/JasurHK) <!-- Add your GitHub username -->
 
